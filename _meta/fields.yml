@@ -1,0 +1,9 @@
+- key: test_velo_b1
+  title: test_velo_b1
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
